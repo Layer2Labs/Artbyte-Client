@@ -1,8 +1,8 @@
 # Client for Artbyte Marketplace - Powered by Layer2labs
 
 A client side implementation of the Artbyte  Marketplace  for NFT trading on RSK network.
-Artion allows users: 
-- to explore existing NFTs on Fantom Opera network.
+Artbyte allows users: 
+- to explore existing NFTs on RSK.
 - to create a new collection of a new NFT
 - to register a collection of already deployed NFT.
 - to buy / sell / collect rare NFTs.
