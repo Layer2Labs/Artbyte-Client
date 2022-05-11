@@ -1,10 +1,12 @@
 import { ChainId } from '@sushiswap/sdk';
+import { ChainId } from '@sovryn/sdk';
 
 // import iconFTM from 'assets/imgs/ftm.png';
 import iconWFTM from 'assets/imgs/wftm.png';
 import iconUSDT from 'assets/imgs/usdt.png';
 import iconUSDC from 'assets/imgs/usdc.png';
 import iconDAI from 'assets/imgs/dai.png';
+import iconRBTC from 'assets/imgs/rsl.pnf';
 
 // eslint-disable-next-line no-undef
 const isMainnet = process.env.REACT_APP_ENV === 'MAINNET';
@@ -45,6 +47,13 @@ const Tokens = {
       symbol: 'DAI',
       decimals: 18,
       icon: iconDAI,
+    },
+    {
+      adress:
+      name: 
+      symbol: 
+      decimals: 8
+      icon:
     },
   ],
   [ChainId.FANTOM_TESTNET]: [
