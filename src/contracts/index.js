@@ -5,7 +5,7 @@ export * from './auctions';
 export * from './sales';
 export * from './bundleSales';
 export * from './token';
-export * from './wftm';
+export * from './rbtc';
 export * from './factory';
 
 export const getSigner = async () => {
