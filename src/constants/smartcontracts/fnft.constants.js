@@ -1,9 +1,9 @@
 import { ChainId } from '@sushiswap/sdk';
 
-export const FantomNFTConstants = {
+export const RSKConstants = {
   ADDRESS: {
-    [ChainId.FANTOM]: '0x4878Be5Aefb2d7Ec4E3f0Cd6aD3EFc79051dC4dD',
-    [ChainId.FANTOM_TESTNET]: '0xe8d29976368Fc2d8699797faA7cD3684dFf41810',
+    [ChainId.RSK_MAINNET]: '0x4878Be5Aefb2d7Ec4E3f0Cd6aD3EFc79051dC4dD',
+    [ChainId.RSK_TESTNET]: '0xe8d29976368Fc2d8699797faA7cD3684dFf41810',
   },
   ABI: [
     {
